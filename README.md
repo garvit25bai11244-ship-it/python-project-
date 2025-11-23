@@ -7,7 +7,6 @@ Product Management: Add, update, and delete products with details like ID, name,
 Customer Database: Maintain a record of customers including name, phone, email, and address.
 
 Sales & Invoicing:
-<img width="1920" height="1080" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/d5aebd1d-ab5f-4fac-8652-89df9e7e8223" />
 
 Point-of-Sale (POS) interface to select a customer and add multiple items to a cart.
 
