@@ -1,45 +1,38 @@
 PROJECT TITLE :-   KABRAJI --- BUILDING MATERIAL , PAINTS AND SANITARY STORE.
 
 OVERVIEW OF PROJECT :- The KABRAJI Shop Management System is a desktop application developed using Python's Tkinter library. It provides a complete solution for managing a building materials and supplies shop, covering inventory, customer database, sales/billing (invoicing), order tracking, and sales reporting.
+
 Features:-
-Product Management: Add, update, and delete products with details like ID, name, category (Paints, Sanitary, Building Materials), price, stock quantity, and unit.
-
-Customer Database: Maintain a record of customers including name, phone, email, and address.
-
-Sales & Invoicing:
-
-Point-of-Sale (POS) interface to select a customer and add multiple items to a cart.
-
-Supports quantity and percentage-based item discounts.
-
-Automatic calculation of Subtotal, Discount, GST (18%), and Total Amount.
-
-Generates a detailed, well-formatted text-based invoice file for each sale.
-
-Automatically updates product stock upon invoice generation.
+1.Product Management: Add, update, and delete products with details like ID, name, category (Paints, Sanitary, Building Materials), price, stock quantity, and unit.
+2.Customer Database: Maintain a record of customers including name, phone, email, and address.
+3. Sales & Invoicing:
+4. Point-of-Sale (POS) interface to select a customer and add multiple items to a cart.
+5.Supports quantity and percentage-based item discounts.
+6. Automatic calculation of Subtotal, Discount, GST (18%), and Total Amount.
+7. Generates a detailed, well-formatted text-based invoice file for each sale.
+8.Automatically updates product stock upon invoice generation.
 
 Technologies/Tools Used
-Language: Python 3.x
 
-GUI Framework: tkinter (Standard Python library)
+1.Language: Python 3.x
+
+2.GUI Framework: tkinter (Standard Python library)
 datetime: For timestamping sales and reports.
 
-os: For file path operations.
+3.os: For file path operations.
+
+4.datetime: For timestamping sales and reports.
+
+5.os: For file path operations.
 
 datetime: For timestamping sales and reports.
-
-os: For file path operations.
-
-datetime: For timestamping sales and reports.
-
-os: For file path operations.
 
 Steps to Install & Run the Project:-
-Prerequisites: Ensure you have Python 3.x installed on your system.
+1.Prerequisites: Ensure you have Python 3.x installed on your system.
 
-Save the Code: Save the provided Python code into a file named kabraji.py.
+2.Save the Code: Save the provided Python code into a file named kabraji.py.
 
-Run from Terminal: Open your command line or terminal, navigate to the directory where you saved the file, and execute the script.
+3.Run from Terminal: Open your command line or terminal, navigate to the directory where you saved the file, and execute the script.
 Instructions for Testing
 Follow these steps to test the main functionalities of the system:
 
