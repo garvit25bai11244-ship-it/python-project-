@@ -1,4 +1,5 @@
-PROJECT TITLE :-   KABRAJI --- BUILDING MATERIAL , PAINTS AND SANITARY STORE. 
+PROJECT TITLE :-   KABRAJI --- BUILDING MATERIAL , PAINTS AND SANITARY STORE.
+
 OVERVIEW OF PROJECT :- The KABRAJI Shop Management System is a desktop application developed using Python's Tkinter library. It provides a complete solution for managing a building materials and supplies shop, covering inventory, customer database, sales/billing (invoicing), order tracking, and sales reporting.
 Features:-
 Product Management: Add, update, and delete products with details like ID, name, category (Paints, Sanitary, Building Materials), price, stock quantity, and unit.
